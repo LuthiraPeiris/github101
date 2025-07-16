@@ -3,9 +3,10 @@
     - This is a feature a branch
     - The newly added line
 
-    I added new some bad code
 
-    I am the bad developer who does not work correctly
+    I added new some good lines
 
+    I am the good developer who works correctly
+    
     def print_sum():
-        print(a * a)
+      print(a * a)
